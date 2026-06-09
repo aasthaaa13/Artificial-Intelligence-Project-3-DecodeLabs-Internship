@@ -1,7 +1,7 @@
 # 🎬 Netflix Movie Recommendation System
 #### -An AI-powered genre-based movie recommendation system
 
-A modern movie recommendation web application built using React and Vite. The system recommends movies based on user-selected genres using a similarity-based recommendation algorithm and presents results through a Netflix-inspired user interface.
+A modern web-based movie recommendation system built using React and Vite. The system recommends movies based on user-selected genres using a similarity-based recommendation algorithm and presents results through a Netflix-inspired user interface.
 
 ---
 
@@ -22,31 +22,31 @@ Users can:
 
 ## ✨ Features
 
-🎯 Genre-Based Recommendations
+#### 🎯 Genre-Based Recommendations
 
 Recommend movies based on genres selected by the user.
 
-🔍 Search Functionality
+#### 🔍 Search Functionality
 
 Instantly search movies by title.
 
-🏆 Best Match Badge
+#### 🏆 Best Match Badge
 
 Highlights the highest-ranked recommendation.
 
-📊 Similarity Scoring
+#### 📊 Similarity Scoring
 
 Calculates recommendation accuracy using genre matching.
 
-🎬 Movie Posters
+#### 🎬 Movie Posters
 
 Displays attractive movie posters for each recommendation.
 
-📖 Recommendation Explanation
+#### 📖 Recommendation Explanation
 
 Shows genres responsible for each recommendation.
 
-🎨 Netflix-Inspired UI
+#### 🎨 Netflix-Inspired UI
 
 Clean and modern streaming-platform-inspired design.
 
@@ -69,11 +69,11 @@ Workflow
 5. Movies are ranked according to score.
 6. Highest-ranked movie is displayed as Best Match.
 
-Formula
+### Formula
 
-Match Score (%) =
+#### Match Score (%) =
 
-(Number of Matched Genres / Number of Selected Genres) × 100
+#### (Number of Matched Genres / Number of Selected Genres) × 100
 
 ---
 
@@ -90,6 +90,7 @@ Match Score (%) =
 
 ## 📂 Project Structure
 
+```text
 netflix-ai-recommender/
 
 ├── public/
@@ -124,27 +125,29 @@ netflix-ai-recommender/
 ├── package.json
 └── vite.config.js
 
+```
 ---
 
 ## 📸 Screenshots
 
-🏠 Home Page
+#### 🏠 Home Page
 
-"Home Page" (screenshots/HomePage.png)
+![Home Page](screenshots/HomePage.png)
 
-🎯 Genre Selection
+#### 🎯 Genre Selection
 
-"Genre Selection" (screenshots/Genre%20Selected.png)
+![Genre selected](screenshots/Genreselected.png)
 
-🎬 Recommendations
+
+#### 🎬 Recommendations
 
 "Recommendations" (screenshots/Recommendations%20shown.png)
 
-🏆 Best Match Badge
+##### 🏆 Best Match Badge
 
 "Best Match" (screenshots/Best%20Match%20Badge.png)
 
-🔍 Search Functionality
+#### 🔍 Search Functionality
 
 "Search" (screenshots/Search%20working.png)
 
@@ -152,15 +155,15 @@ netflix-ai-recommender/
 
 ## 🚀 Installation
 
-Clone Repository
+### Clone Repository
 
-git clone https://github.com/your-username/netflix-ai-recommender.git
+git clone https://github.com/aasthaaa13/Netflix-Movie-Recommendation-System.git
 
-Navigate to Project
+### Navigate to Project
 
 cd netflix-ai-recommender
 
-Install Dependencies
+### Install Dependencies
 
 npm install
 
@@ -183,7 +186,8 @@ npm run dev
 
 ---
 
-## 👨‍💻 Author
+## ⭐ Acknowledgements
+This project was completed as part of the Artificial Intelligence Industrial Training by **DecodeLabs** and focuses on developing foundational machine learning skills through practical implementation.
 
 Developed as an academic and internship-focused project to demonstrate recommendation system concepts, React development, and modern frontend engineering.
 
@@ -192,3 +196,13 @@ Project Type: AI Movie Recommendation System
 Technology: React + Vite
 
 Domain: Recommendation Systems
+
+---
+
+## 🎬 More Than Just Recommendations...
+> But more than just code and algorithms, this project is about discovery.
+> It's that feeling of finding the perfect movie on a quiet evening, uncovering a hidden gem you never knew existed, or stumbling upon a story that stays with you long after the credits roll.
+> Because sometimes, the right recommendation becomes your next favorite memory.
+> "Every great movie deserves its audience. Every viewer deserves the right movie."
+
+> Built with ❤️ for movie lovers everywhere!
