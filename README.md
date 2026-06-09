@@ -131,19 +131,23 @@ netflix-ai-recommender/
 ## 📸 Screenshots
 
 #### 🏠 Home Page
-<img src="screenshots/HomePage.png" width="900">
+<img width="1870" height="925" alt="Screenshot 2026-06-09 204714" src="https://github.com/user-attachments/assets/16306edd-0241-4341-b90b-ab1f270a4a3d" />
+
 
 #### 🎯 Genre Selection
-<img src="screenshots/Genre-Selected.png" width="900">
+<img width="1893" height="932" alt="Screenshot 2026-06-09 211317" src="https://github.com/user-attachments/assets/24a37cea-719f-4185-a449-071b7de58030" />
+
 
 #### 🎬 Recommendations
-<img src="screenshots/Recommendations-shown.png" width="900">
+<img width="1889" height="946" alt="Screenshot 2026-06-09 211644" src="https://github.com/user-attachments/assets/d4250276-5c9f-4ce1-b1be-11b0151e7176" />
+
 
 ##### 🏆 Best Match Badge
-<img src="screenshots/Best-Match-Badge.png" width="900">
+<img width="1898" height="940" alt="Screenshot 2026-06-09 211751" src="https://github.com/user-attachments/assets/db50ff85-4e76-4ca3-ac44-08ae24d02687" />
+
 
 #### 🔍 Search Functionality
-<img src="screenshots/Search-working.png" width="900">
+<img width="1890" height="936" alt="Screenshot 2026-06-09 211906" src="https://github.com/user-attachments/assets/a158c201-ea0c-40ea-a10f-858bfaa2577d" />
 
 ---
 
