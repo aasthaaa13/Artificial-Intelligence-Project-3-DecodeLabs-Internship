@@ -131,25 +131,19 @@ netflix-ai-recommender/
 ## 📸 Screenshots
 
 #### 🏠 Home Page
-
-![Home Page](screenshots/HomePage.png)
+<img src="screenshots/HomePage.png" width="900">
 
 #### 🎯 Genre Selection
-
-![Genre selected](screenshots/Genreselected.png)
-
+<img src="screenshots/Genre Selected.png" width="900">
 
 #### 🎬 Recommendations
-
-"Recommendations" (screenshots/Recommendations%20shown.png)
+<img src="screenshots/Recommendations shown.png" width="900">
 
 ##### 🏆 Best Match Badge
-
-"Best Match" (screenshots/Best%20Match%20Badge.png)
+<img src="screenshots/Best Match Badge.png" width="900">
 
 #### 🔍 Search Functionality
-
-"Search" (screenshots/Search%20working.png)
+<img src="screenshots/Search working.png" width="900">
 
 ---
 
