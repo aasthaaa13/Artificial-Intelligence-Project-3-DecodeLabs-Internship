@@ -1,0 +1,25 @@
+.navbar {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 40px;
+  z-index: 100;
+}
+
+.netflix-logo {
+  color: #e50914;
+  font-size: 3rem;
+  font-weight: 900;
+  letter-spacing: 2px;
+  margin: 0;
+}
+
+.signin-btn {
+  background: #e50914;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+}

@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  background-color: #141414;
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+nav {
+  padding: 20px;
+}
+
+nav h1 {
+  color: #e50914;
+  margin: 0;
+}
+
+button {
+  background: #e50914;
+  color: white;
+  border: none;
+  padding: 12px 20px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+button:hover {
+  opacity: 0.9;
+}
