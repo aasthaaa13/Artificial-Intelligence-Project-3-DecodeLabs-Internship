@@ -77,6 +77,12 @@ Workflow
 
 ---
 
+## 🛠️ System Architecture
+
+<img width="1181" height="1213" alt="WhatsApp Image 2026-06-10 at 11 46 22 AM (1)" src="https://github.com/user-attachments/assets/fcd190ea-dc70-49c3-b82f-d470425a553c" />
+
+---
+
 ## 🛠️ Tech Stack
 
 - React.js
